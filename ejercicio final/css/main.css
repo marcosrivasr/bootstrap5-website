@@ -50,7 +50,7 @@ h1,h2,h3,h4,h5, button, .amiibo-name{
 
 #games{
     background: rgb(255,255,255);
-    background: url(img/bg-02.png),  linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(99,196,255,1) 57%);
+    background: url(../img/bg-02.png),  linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(99,196,255,1) 57%);
     background-repeat: repeat-x;
     background-size: 75%;
     margin-top: -20px;
@@ -76,7 +76,7 @@ h1,h2,h3,h4,h5, button, .amiibo-name{
     z-index: 2;
 }
 #separator-amiibos .content{
-    background: url(img/bg-03.png);
+    background: url(../img/bg-03.png);
     width: 110%;
     height: 100px;
     margin-left: -5%;
@@ -90,7 +90,7 @@ h1,h2,h3,h4,h5, button, .amiibo-name{
 
 
 #amiibos{
-    background: url(img/bg-01.png),url(img/bg-03.png);
+    background: url(../img/bg-01.png),url(../img/bg-03.png);
     background-repeat: no-repeat, repeat;
     background-position: bottom center, center center;
     background-size: 100%, auto;
@@ -113,13 +113,13 @@ h1,h2,h3,h4,h5, button, .amiibo-name{
 }
 
 #play{   
-    background: url(img/bg-04.png);
+    background: url(../img/bg-04.png);
     background-color: rgb(255, 255, 219);
     background-size: 40px 40px;
 }
 
 #footer{
-    background: url(img/bg-04.png);
+    background: url(../img/bg-04.png);
     background-color: rgb(224, 144, 24);
     background-size: 50px 50px;
 }
